@@ -2,7 +2,7 @@
 
 Última atualização: 19/12/2025
 
-O aplicativo **DormiBem – Sons para Dormir** respeita a privacidade dos seus usuários e está comprometido em proteger qualquer informação utilizada durante o uso do aplicativo.
+O aplicativo **DormiBem** respeita a privacidade dos seus usuários e está comprometido em proteger qualquer informação utilizada durante o uso do aplicativo.
 
 ## 1. Coleta de informações
 O aplicativo DormiBem **não coleta, armazena ou compartilha dados pessoais** dos usuários.
